@@ -1,4 +1,3 @@
-# Birhan-Solutions-client-page
 # Birhan Solutions Client Page
 Birhan Solutions client page allows companies to contact the admins to request a service and learn what services are provided. This page also allows developers to submit their credentials and become a freelancer. Anyone who wants to become a subscriber can subscribe by providing their email address so that they will be notified for any change. This website is developed using HTML5, CSS3, Bootstrap, JavaScript and PHP. 
 
