@@ -27,14 +27,18 @@ Make sure to create a database and a table specefied in birhan solutions query f
 - JavaScript
 - Bootstrap
 
-## Screenshots
-
-![Uploading Screenshot (175).png…]()6da89de-7bb9-431c-bcdc-af178dd7ea47.png)
-![Screenshot (174)](https://user-images.githubusercontent.com/94830418/197354236-976a46b6-083c-47ae-bf3a-00e98ffc5b86.png)
-
-
-
 **Form**. All the validation is carried out in client side.
 After you submit a form Data goes to DB and also email to pre define email address
 
 **Responsiveness**. For a Responsive website, I used New Framework MaterilizeCss which is from Google.
+
+
+## Screenshots
+
+
+![Screenshot (175)](https://user-images.githubusercontent.com/94830418/197356015-3f14e83a-8050-4276-a62a-168c17e84599.png)
+![Screenshot (176)](https://user-images.githubusercontent.com/94830418/197356017-ad4c4a6c-3417-4e83-9817-d81058f22e24.png)
+![Screenshot (177)](https://user-images.githubusercontent.com/94830418/197356018-5e4be3c9-f8d5-4a7d-b5a4-6ee5de695e17.png)
+![Screenshot (173)](https://user-images.githubusercontent.com/94830418/197356020-ec11537f-9d6e-4c80-9b4a-34ae872b7487.png)
+![Screenshot (174)](https://user-images.githubusercontent.com/94830418/197356024-db75e354-f294-4886-b0b8-4a86bd69ca92.png)
+
