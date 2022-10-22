@@ -27,6 +27,13 @@ Make sure to create a database and a table specefied in birhan solutions query f
 - JavaScript
 - Bootstrap
 
+## Screenshots
+
+![Uploading Screenshot (175).png…]()6da89de-7bb9-431c-bcdc-af178dd7ea47.png)
+![Screenshot (174)](https://user-images.githubusercontent.com/94830418/197354236-976a46b6-083c-47ae-bf3a-00e98ffc5b86.png)
+
+
+
 **Form**. All the validation is carried out in client side.
 After you submit a form Data goes to DB and also email to pre define email address
 
